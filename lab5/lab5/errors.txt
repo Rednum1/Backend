@@ -1,6 +1,0 @@
-Success! key: 1; value: 123.
-Success! key: 12; value: 1234.
-Success! key: 1; value: 123.
-Error! key 13 doesn't exists.
-Success! Added cookie! key: 1; value: 123; time:2022-12-01T19:30.
-Success! key: 1; value: 123.
