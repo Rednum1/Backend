@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "Hash": "cNNl/M3QbEoUttALyqlMloqUztXQSGJfRwevX7rRVB0=",
+  "Source": "lab6",
+  "BasePath": "_content/lab6",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Alexander\\source\\repos\\lab6\\lab6\\obj\\Debug\\net6.0\\scopedcss\\bundle\\lab6.styles.css",
+      "SourceId": "lab6",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Alexander\\source\\repos\\lab6\\lab6\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/lab6",
+      "RelativePath": "lab6.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Alexander\\source\\repos\\lab6\\lab6\\obj\\Debug\\net6.0\\scopedcss\\bundle\\lab6.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Alexander\\source\\repos\\lab6\\lab6\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\lab6.bundle.scp.css",
+      "SourceId": "lab6",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Alexander\\source\\repos\\lab6\\lab6\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/lab6",
+      "RelativePath": "lab6.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Alexander\\source\\repos\\lab6\\lab6\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\lab6.bundle.scp.css"
+    }
+  ]
+}
